@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+[[Upload to GDrive or portfolio and paste link here]]
 ### 💫 Who Am I?
 
 - 👩‍🎓 MCA Graduate from **Pondicherry Central University**
@@ -61,19 +61,23 @@
 ---
 ### 📊 GitHub Insights
 
+<!-- Row 1: GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjana732&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjana732&theme=tokyonight" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana732&layout=compact&theme=tokyonight" width="60%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjana732&theme=tokyonight" width="60%" />
 </p>
 
-<!-- GitHub Contribution Graph -->
+<!-- Row 2: Stats + Top Languages -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjana732&bg_color=0d1117&color=36BCF7&line=0AC5F7&point=1C64F2&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjana732&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana732&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" />
 </p>
 
----
+<!-- Row 3: Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjana732&bg_color=0d1117&color=36BCF7&line=0AC5F7&point=1C64F2&area=true&hide_border=true" width="90%" />
+</p>
+
 
 ### 🏆 GitHub Trophies
 
