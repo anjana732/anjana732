@@ -1,6 +1,6 @@
 <!-- Top Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Anjana+Kumari;Full+Stack+Developer+%7C+ServiceNow+Expert;Always+learning+new+tech!&center=true&width=1000&height=45&color=36BCF7&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Folks!;I+am+Full+Stack+Engineer;Always+learning+new+tech!&center=true&width=1000&height=45&color=36BCF7&vCenter=true&size=22" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Anjana Kumari</h1>
@@ -17,7 +17,7 @@
 ### 💫 Who Am I?
 
 - 👩‍🎓 MCA Graduate from **Pondicherry Central University**
-- 🖥️ Experienced **ServiceNow Developer** turned Full Stack Dev
+- 🖥️ Experienced **Full Stack Engineer** 
 - 💼 Currently crafting **real-world apps** using **React, Node.js, Next.js, Stripe, Spring Boot**
 - 🔍 Learning DevOps, microservices, system design, and integrating **AI/ML in full-stack apps**
 - 🧠 Obsessed with writing **clean, scalable, and testable code**
@@ -59,7 +59,6 @@
 - 🚀 [Explore My Repos »](https://github.com/anjana732?tab=repositories)
 
 ---
-
 ### 📊 GitHub Insights
 
 <p align="center">
@@ -67,6 +66,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjana732&theme=tokyonight" width="48%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjana732&layout=compact&theme=tokyonight" width="60%" />
+</p>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjana732&bg_color=0d1117&color=36BCF7&line=0AC5F7&point=1C64F2&area=true&hide_border=true" />
 </p>
 
 ---
