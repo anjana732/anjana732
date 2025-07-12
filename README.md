@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjana732&label=Profile+Views&color=brightgreen&style=flat-square" alt="anjana732" />
   <a href="mailto:anjanaksingh00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anjana-singh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anjana732" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
