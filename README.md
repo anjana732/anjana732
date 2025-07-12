@@ -85,9 +85,9 @@
 
 ### 📬 Let's Connect
 
-- 📫 **Email:** [anjanaksingh00@gmail.com](mailto:anjanaksingh00@gmail.com)
-- 💼 **Resume:** _[Upload to GDrive or portfolio and paste link here]_
-- 🌐 **Portfolio:** _[Coming soon or add link if hosted]_
+- 📫 **Email:** [anjanasingh1257@gmail.com](mailto:anjanasingh1257@gmail.com)
+- 💼 **Resume:** [Click for Resume](https://drive.google.com/file/d/12U_hCgiun8DKmxAedlXA_draG8YjcPeJ/view?usp=drive_link)
+- 🌐 **Portfolio:** [Visit Profile](https://nextjs-portfolio-rosy-six.vercel.app/)
 - 🤝 Open for collaborations, internships, or tech talks
 
 ---
