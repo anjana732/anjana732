@@ -13,7 +13,8 @@
 </p>
 
 ---
-[[Upload to GDrive or portfolio and paste link here]]
+🌐 **Portfolio:** [Visit Profile](https://nextjs-portfolio-rosy-six.vercel.app/)
+
 ### 💫 Who Am I?
 
 - 👩‍🎓 MCA Graduate from **Pondicherry Central University**
